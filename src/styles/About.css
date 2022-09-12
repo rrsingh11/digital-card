@@ -8,11 +8,13 @@ p{
    font-size: 1rem;
    margin: 1px 10px;
    font-weight: 400;
-   color: #DCDCDC;
+   color: #a2a0a0;
    margin-bottom: 10px;
+   line-height: 1.5rem;
 }
 
 h2{
     margin: 0px 10px;
     font-size: 1.6rem;
 }
+
